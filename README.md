@@ -168,8 +168,7 @@ This is the honest part, and it matters. Full discussion in [`docs/LIMITATIONS.m
 ## Team
 
 **Voltage Vikings** · Smart India Hackathon 2025 · Team ID 73440 · PS SIH25077
-Members: *add names, roles and links here*
-Contact: `your.email@example.com`
+
 
 ## References
 
